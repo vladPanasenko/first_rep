@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-
+#path to chromedriver
 path_to_driver = "chromedriver.exe"
 
 
